@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiquaingee.nickmiller.io/sitemap.xml
